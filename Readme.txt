@@ -1,1 +1,1 @@
-This repository holds code for a research project on urban sensing titled FutureSf in collaboration with Autodesk IDEA Studio
+This repository holds code for a research project on urban sensing titled FutureSf in collaboration with Autodesk IDEA Studio. You can find the associated Instructables Urban Sensing Kit at http://www.instructables.com/id/Urban-Sensing-Networks/.
